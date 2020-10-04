@@ -20,12 +20,11 @@ Press the Create button and copy the generated client ID and client secretInstal
 ## Setup and run
 to setup this project, run the following commands on your terminal
 ```bash
-1. to clone the project `git clone https://github.com/giftmbanda/GoogleOAuth2Node`
-2. navigate to the project directory `cd GoogleOAuth2Node`
+1. to clone the project `git clone https://github.com/giftmbanda/PassportGoogleOAuth2`
+2. navigate to the project directory `cd PassportGoogleOAuth2`
 3. install neccesary packages, modules `npm install`
 4. in the index.js file, use your clientID and clientSecret instead with yours.
 5. to run the project `npm start`
-6. using POSTMAN you can use this default url of `http://localhost:3000`
 ```
 ## Author
 [Gift Banda](https://giftmbanda.com)
